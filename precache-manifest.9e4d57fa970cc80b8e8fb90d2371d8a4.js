@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c5e23ebb82ab169cb67c87cc01c7ebd",
+    "revision": "db6176218242cee7c3d73031a8accb49",
     "url": "/Dashboard_campamentos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dashboard_campamentos/static/css/2.ed439b8d.chunk.css"
   },
   {
-    "revision": "20a0278e70d29dbc303e",
+    "revision": "f9b9fdcf5c13d5a43b58",
     "url": "/Dashboard_campamentos/static/css/main.5facb584.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dashboard_campamentos/static/js/2.f3311aa0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20a0278e70d29dbc303e",
-    "url": "/Dashboard_campamentos/static/js/main.6d2e0222.chunk.js"
+    "revision": "f9b9fdcf5c13d5a43b58",
+    "url": "/Dashboard_campamentos/static/js/main.0c2fa9f2.chunk.js"
   },
   {
     "revision": "68b3cccff4d1044be694",
